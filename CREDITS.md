@@ -23,3 +23,6 @@ Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. an
 
 Raspberry Pi is a trademark of Raspberry Pi Ltd.
 - [logos/raspberry_pi.png](logos/raspberry_pi.png)
+
+Tux by Larry Ewing, created with GIMP
+- [logos/linux.png](logos/linux.png)
