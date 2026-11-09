@@ -8,11 +8,18 @@
 
 # Credits
 
-<a href="https://x.com/tommyvf">TwinTrash Tommy</a>
-- /retro/fly_polaroid.png
+[https://x.com/tommyvf](TwinTrash Tommy) (X)
+- [retro/fly_polaroid.png](retro/fly_polaroid.png)
 
-<a href="https://unsplash.com/@lorenzoherrera">Lorenzo Herrera</a>
-- /retro/mini_commadore_light.jpg
-- /retro/mini_commadore_dark.jpg
+[https://unsplash.com/@lorenzoherrera](Lorenzo Herrera) (Unsplash)
+- [retro/mini_commodore_dark.jpg](retro/mini_commodore_dark.jpg)
+- [retro/mini_commodore_light.jpg](retro/mini_commodore_light.jpg)
 
+FreeBSD and the FreeBSD logo are trademarks of The FreeBSD Foundation.
+- [logos/freebsd.png](logos/freebsd.png)
 
+Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries.
+- [logos/appel_retro.png](logos/apple_retro.png)
+
+Raspberry Pi is a trademark of Raspberry Pi Ltd.
+- [logos/raspberry_pi.png](logos/raspberry_pi.png)
