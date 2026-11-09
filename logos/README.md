@@ -3,3 +3,5 @@
 <a href="raspberry_pi.png"><img alt="raspberry_pi" src="raspberry_pi.png"></a>
 
 <a href="freebsd.png"><img alt="freebsd" src="freebsd.png"></a>
+
+<a href="apple_retro.png"><img alt="apple_retro" src="apple_retro.png"></a>
