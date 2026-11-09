@@ -1,3 +1,3 @@
 # Retro
 
-<a href="polaroid_camera.png"><img alt="polaroid_camera" src="polaroid_camera.png"></a>
+<a href="fly_polaroid.png"><img alt="fly_polaroid" src="fly_polaroid.png"></a>
