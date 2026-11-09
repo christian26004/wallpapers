@@ -8,8 +8,11 @@
 
 # Credits
 
-retro/fly_polaroid.png
-
 <a href="https://x.com/tommyvf">TwinTrash Tommy</a>
+- /retro/fly_polaroid.png
+
+<a href="https://unsplash.com/@lorenzoherrera">Lorenzo Herrera</a>
+- /retro/mini_commadore_light.jpg
+- /retro/mini_commadore_dark.jpg
 
 
