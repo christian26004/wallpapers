@@ -8,10 +8,10 @@
 
 # Credits
 
-[https://x.com/tommyvf](TwinTrash Tommy) (X)
+[TwinTrash Tommy](https://x.com/tommyvf) (X)
 - [retro/fly_polaroid.png](retro/fly_polaroid.png)
 
-[https://unsplash.com/@lorenzoherrera](Lorenzo Herrera) (Unsplash)
+[Lorenzo Herrera](https://unsplash.com/@lorenzoherrera) (Unsplash)
 - [retro/mini_commodore_dark.jpg](retro/mini_commodore_dark.jpg)
 - [retro/mini_commodore_light.jpg](retro/mini_commodore_light.jpg)
 
